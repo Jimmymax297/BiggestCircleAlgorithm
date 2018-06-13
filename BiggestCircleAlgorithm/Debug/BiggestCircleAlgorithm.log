@@ -1,0 +1,34 @@
+﻿  Segment.cpp
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(57): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(476): warning C4101: 'c1': unreferenced local variable
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(476): warning C4101: 'b2': unreferenced local variable
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(476): warning C4101: 'a2': unreferenced local variable
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(476): warning C4101: 'a1': unreferenced local variable
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(476): warning C4101: 'c2': unreferenced local variable
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(476): warning C4101: 'b1': unreferenced local variable
+  Point.cpp
+  main.cpp
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(57): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(476): warning C4101: 'c1': unreferenced local variable
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(476): warning C4101: 'b2': unreferenced local variable
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(476): warning C4101: 'a2': unreferenced local variable
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(476): warning C4101: 'a1': unreferenced local variable
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(476): warning C4101: 'c2': unreferenced local variable
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\brutegeometry.h(476): warning C4101: 'b1': unreferenced local variable
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\main.cpp(132): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jimmy\source\repos\biggestcirclealgorithm\biggestcirclealgorithm\main.cpp(157): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Helpers.cpp
+  getopt.cpp
+  Circle.cpp
+  Generating Code...
+  BiggestCircleAlgorithm.vcxproj -> C:\Users\Jimmy\source\repos\BiggestCircleAlgorithm\Debug\BiggestCircleAlgorithm.exe

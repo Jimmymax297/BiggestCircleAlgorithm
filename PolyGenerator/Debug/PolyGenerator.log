@@ -1,0 +1,3 @@
+﻿  PolyGenerator.cpp
+c:\users\jimmy\source\repos\biggestcirclealgorithm\polygenerator\polygenerator.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PolyGenerator.vcxproj -> C:\Users\Jimmy\source\repos\BiggestCircleAlgorithm\Debug\PolyGenerator.exe
